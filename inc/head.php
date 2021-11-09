@@ -45,7 +45,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="../login.php">Connexion</a></li>
-                    <li><a href="../login.php">Déconnexion</a></li>
+                    <li><a href="../logout.php">Déconnexion</a></li>
                     <li><a href="#">Chocolates chips</a></li>
                     <li><a href="#">Nuts</a></li>
                     <li><a href="#">Gluten full</a></li>
